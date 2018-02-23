@@ -1,3 +1,5 @@
 Hello GitHub!
 Edit test! from MacOS!
 こんばんは！日本語で入力するテストです。
+
+東横インのテレビに繋いでいる Chromebit からテキスト編集テストです。
