@@ -15,3 +15,7 @@ gitの練習もかねてます。
 ## Author
 
 [@Aqraf](https://home.aqraf.tokyo/@Aqraf)
+
+## License
+
+All codes are licensed under [The MIT License](https://opensource.org/licenses/MIT).
