@@ -1,0 +1,15 @@
+img.top-icon {
+    display: block;
+    width: 50vmin;
+    height: 50vmin;
+    border-radius: 50vmin;
+    max-width: 8.5em;
+    max-height: 8.5em;
+}
+
+div.top-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1em;
+}
