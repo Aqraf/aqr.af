@@ -13,3 +13,24 @@ div.top-icon {
     align-items: center;
     margin-top: 1em;
 }
+
+.siimple-tip {
+    width: calc(100% - 25px - 20px - 20px);
+    border-left-width: 20px;
+}
+
+.siimple-box-title {
+    font-size: 32px;
+}
+
+.siimple-tip--twitter {
+    border-left-color: #00aced;
+}
+
+.siimple-tip--github {
+    border-left-color: #767676;
+}
+
+.siimple-tip--mastodon {
+    border-left-color: #2588d0;
+}
