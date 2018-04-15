@@ -2,6 +2,9 @@ body {
     font-family: "Rounded Mplus 1c";
     font-weight: 500;
 }
+a {
+    text-decoration: none;
+}
 .wf-roundedmplus1c-1 {
     font-family: "Rounded Mplus 1c";
     font-weight: 100;
@@ -44,6 +47,10 @@ div.top-icon {
     font-size: 32px;
 }
 
+.siimple-tip {
+    padding-bottom: 30px;
+}
+
 .siimple-tip--twitter {
     border-left-color: #00aced;
 }
@@ -54,6 +61,18 @@ div.top-icon {
 
 .siimple-tip--mastodon {
     border-left-color: #2588d0;
+}
+
+.siimple-tip--keybase {
+    border-left-color: #ff6f21;
+}
+
+.siimple-tip--pixiv {
+    border-left-color: #209ced;
+}
+
+.siimple-tip--statink {
+    border-left-color: #767676;
 }
 
 .siimple-box-title {
