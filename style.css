@@ -21,18 +21,18 @@ body {
 
 img.top-icon {
     display: block;
-    width: 90vmin;
-    height: 90vmin;
+    width: 100vmin;
+    height: 100vmin;
     border-radius: 0vmin;
-    max-width: 9em;
-    max-height: 9em;
+    max-width: 10em;
+    max-height:10em;
 }
 
 div.top-icon {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 1em;
+    margin-top: 0em;
 }
 
 .siimple-tip {
