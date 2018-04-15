@@ -1,8 +1,29 @@
+body {
+    font-family: "Rounded Mplus 1c";
+    font-weight: 500;
+}
+.wf-roundedmplus1c-1 {
+    font-family: "Rounded Mplus 1c";
+    font-weight: 100;
+}
+.wf-roundedmplus1c-3 {
+    font-family: "Rounded Mplus 1c";
+    font-weight: 300;
+}
+.wf-roundedmplus1c-6 {
+    font-family: "Rounded Mplus 1c";
+    font-weight: 600;
+}
+.wf-roundedmplus1c-9 {
+    font-family: "Rounded Mplus 1c";
+    font-weight: 900;
+}
+
 img.top-icon {
     display: block;
-    width: 50vmin;
-    height: 50vmin;
-    border-radius: 50vmin;
+    width: 70vmin;
+    height: 70vmin;
+    border-radius: 0vmin;
     max-width: 8.5em;
     max-height: 8.5em;
 }
@@ -33,4 +54,9 @@ div.top-icon {
 
 .siimple-tip--mastodon {
     border-left-color: #2588d0;
+}
+
+.siimple-box-title {
+    font-family: "Rounded Mplus 1c";
+    font-weight: 900
 }
